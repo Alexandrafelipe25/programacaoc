@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "VARIÁVES.C": "cpp",
+        "SCANF.C": "cpp",
+        "PRINTF.C": "cpp",
+        "CODAR.C": "cpp",
+        "OPMATEMAT.C": "cpp",
+        "OPARITIMETICO.C": "cpp",
+        "OP_ARITIMETICO.C": "cpp",
+        "OP_ATRIBUICAO.C": "cpp",
+        "op_incredecrem": "c"
+    }
+}
